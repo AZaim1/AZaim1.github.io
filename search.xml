@@ -3,7 +3,8 @@
   <entry>
     <title>Hello World</title>
     <url>/2023/10/19/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <content><![CDATA[<span id="more"></span>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2>
 <h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
@@ -22,7 +23,8 @@
   <entry>
     <title>pagetags</title>
     <url>/2023/10/26/pagetags/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<span id="more"></span>
+]]></content>
   </entry>
   <entry>
     <title>关于Hexo的修改</title>
@@ -30,6 +32,7 @@
     <content><![CDATA[<blockquote>
 <p>在建设Blog之中遇到的一些问题，以及解决方案</p>
 </blockquote>
+<span id="more"></span>
 <h1 id="1如何使hexo文章不完整显示进入文章才能完整阅读"><a class="markdownIt-Anchor" href="#1如何使hexo文章不完整显示进入文章才能完整阅读"></a> 1.如何使Hexo文章不完整显示，进入文章才能完整阅读</h1>
 <h2 id="第一种方法"><a class="markdownIt-Anchor" href="#第一种方法"></a> 第一种方法</h2>
 <p>打开<strong>主题</strong>&quot;_config.yml&quot;文件,查找下列代码，如果没有就粘贴复制，但是可能不同的主题不支持这种方法</p>
@@ -55,6 +58,7 @@
     <content><![CDATA[<blockquote>
 <p>记录一些markdown的特殊格式怎么“弄”出来</p>
 </blockquote>
+<span id="more"></span>
 <hr />
 <p>效果：<code>markdown</code></p>
 <p>用法：英文状态下两个    ``</p>
@@ -72,7 +76,7 @@
 <hr />
 ]]></content>
       <tags>
-        <tag>技</tag>
+        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -81,6 +85,7 @@
     <content><![CDATA[<blockquote>
 <p>所有的第一次总是很犹豫，想着我如何才能做好</p>
 </blockquote>
+<span id="more"></span>
 <h2 id="历程"><a class="markdownIt-Anchor" href="#历程"></a> 历程</h2>
 <p>从建立博客，到正式写第一篇文章，历时一个月零三天。为什么简简单单的一个事情，会花费三十四天。</p>
 <p>因为第一次建站选择NexT主题，用了一个非常新的版本，中途出了很多BUG，一度想要放弃这个主题。在这个过程中，也参加了一个比赛，参加了一次研学，时间就这样走过了。</p>
@@ -91,7 +96,6 @@
 <p>虽然，现在技术不高，看着收藏夹中各位大佬的博客，布局是让人眼馋的，内容也是极丰富的，不过“不积跬步无以至千里”。</p>
 <p>在第一篇文章里面立下一个宏愿，希望十年之后，有同学能通过我的Blog解决在生活中，在技术上遇到的困难，就像今天的我一样，通过各位大佬的Blog了解到我本不能了解到的事情。在互联网世界主动留下一个脚印。</p>
 <h2 id="文章结构"><a class="markdownIt-Anchor" href="#文章结构"></a> 文章结构</h2>
-<span id="more"></span>
 <blockquote>
 <p>一篇文章应该有一个让读者清晰的结构，要吸引人就需要以下内容</p>
 </blockquote>
