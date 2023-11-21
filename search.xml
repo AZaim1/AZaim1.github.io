@@ -25,6 +25,32 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>关于markdown的一些用法</title>
+    <url>/2023/11/21/%E5%85%B3%E4%BA%8Emarkdown%E7%9A%84%E4%B8%80%E4%BA%9B%E7%94%A8%E6%B3%95/</url>
+    <content><![CDATA[<blockquote>
+<p>记录一些markdown的特殊格式怎么“弄”出来</p>
+</blockquote>
+<hr />
+<p>效果：<code>markdown</code></p>
+<p>用法：英文状态下两个    ``</p>
+<p>描述：ESC键下带波浪线那个键，学名“+shift”键</p>
+<hr />
+<p>效果：</p>
+<blockquote></blockquote>
+<p>用法：英文状态下     “&gt;+空格”</p>
+<p>描述：没有内容的时候，回车可以取消</p>
+<hr />
+<p>效果：</p>
+<hr />
+<p>用法：三个减号 — 然后回车</p>
+<p>描述：很简单，数字键旁的减号都可以</p>
+<hr />
+]]></content>
+      <tags>
+        <tag>技</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>开始我的第一篇博客文章</title>
     <url>/2023/11/21/%E5%BC%80%E5%A7%8B%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<blockquote>
@@ -107,32 +133,6 @@
 ]]></content>
       <tags>
         <tag>技术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于markdown的一些用法</title>
-    <url>/2023/11/21/%E5%85%B3%E4%BA%8Emarkdown%E7%9A%84%E4%B8%80%E4%BA%9B%E7%94%A8%E6%B3%95/</url>
-    <content><![CDATA[<blockquote>
-<p>记录一些markdown的特殊格式怎么“弄”出来</p>
-</blockquote>
-<hr />
-<p>效果：<code>markdown</code></p>
-<p>用法：英文状态下两个    ``</p>
-<p>描述：ESC键下带波浪线那个键，学名“+shift”键</p>
-<hr />
-<p>效果：</p>
-<blockquote></blockquote>
-<p>用法：英文状态下     “&gt;+空格”</p>
-<p>描述：没有内容的时候，回车可以取消</p>
-<hr />
-<p>效果：</p>
-<hr />
-<p>用法：三个减号 — 然后回车</p>
-<p>描述：很简单，数字键旁的减号都可以</p>
-<hr />
-]]></content>
-      <tags>
-        <tag>技</tag>
       </tags>
   </entry>
 </search>
